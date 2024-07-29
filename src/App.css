@@ -1,0 +1,97 @@
+body {
+  background-color: #ddd;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-align: center;
+}
+.container {
+  position: flex;
+  align-items: center;
+  justify-content: center;
+  top: 50%;
+  left: 50%;
+}
+.title {
+  font-size: 23px;
+  margin-bottom: 2rem;
+}
+.underline {
+  width: 5rem;
+  border-radius: 50px;
+  height: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #4ab6f8;
+}
+.reviews {
+  background-color: white;
+  box-shadow: 5px 5px 5px 5px #bbb;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50rem;
+  height: auto;
+  padding-bottom: 1rem;
+}
+.image-container {
+  padding-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  width: 9rem;
+  height: 9rem;
+}
+.person-img {
+  position: relative;
+  display: inline;
+  width: 9rem;
+  height: 9rem;
+  border-radius: 50%;
+  box-shadow: 10px -1px #4ab6f8;
+}
+.quote-icon {
+  position: absolute;
+  margin-left: -8rem;
+  color: white;
+  padding: 8px;
+  border-radius: 50%;
+  background-color: #4ab6f8;
+  font-size: 18px;
+}
+.info {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.author {
+}
+.job {
+  color: #4ab6f8;
+  font-size: 20px;
+}
+.button-container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+
+.button-pre-next {
+  border: none;
+  background-color: transparent;
+  color: #4ab6f8;
+  font-size: 20px;
+}
+.random-btn {
+  border-color: #4ab6f8;
+  margin-top: 0.5rem;
+  height: 2rem;
+  width: 7rem;
+}
+.see-more-btn {
+  border: none;
+  background-color: transparent;
+  color: #4ab6f8;
+  font-size: 15px;
+  font-weight: 600;
+}
