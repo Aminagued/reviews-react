@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aminagued/reviews-react/static/css/main.2c7b8717.css",
+    "main.js": "/Aminagued/reviews-react/static/js/main.e8866190.js",
+    "index.html": "/Aminagued/reviews-react/index.html",
+    "main.2c7b8717.css.map": "/Aminagued/reviews-react/static/css/main.2c7b8717.css.map",
+    "main.e8866190.js.map": "/Aminagued/reviews-react/static/js/main.e8866190.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c7b8717.css",
+    "static/js/main.e8866190.js"
+  ]
+}
